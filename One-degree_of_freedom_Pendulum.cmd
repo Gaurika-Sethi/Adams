@@ -1,7 +1,4 @@
-! CMD Version:2
-! Version 2 enables expanded acceptable characters for object names.
-! If unspecified, set to 1 or set to an invalid value, Adams View assumes traditional naming requirements.
-!
+
 !-------------------------- Default Units for Model ---------------------------!
 !
 !
